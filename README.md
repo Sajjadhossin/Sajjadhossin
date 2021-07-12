@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajjadhossin
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development technologies
+- 🌱 I’m currently learning Web development technologies Such as Angular 12 , Tailwindcss , Sass etc
 - 📫 You can reach me by email(sajjadhossin.cse@gmail.com) or Phone 01956034049
 
 <!---
