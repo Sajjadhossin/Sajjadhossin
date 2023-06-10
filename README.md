@@ -50,7 +50,7 @@ Feel free to explore my repositories to discover more projects and code samples.
 
 You can find me on various platforms. Let's connect and collaborate:
 
-🌎 Website: https://sajjadhossin.github.io
+- Website: https://sajjadhossin.github.io
 - LinkedIn: https://www.linkedin.com/in/sajjad-hossin
 - Email: sajjadhossin.cse@gmail.com
 
