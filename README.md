@@ -35,7 +35,7 @@ Here are a few highlighted projects:
 
 🌎 http://pulsetechltd.com: Pulse Tech Ltd. is one of Bangladesh's most promising and rapidly developing Information technology company. Our main goal is to automate and develop innovative solutions in order to progress global and local healthcare technology. We are the first company in Bangladesh to build a Digital Healthcare Ecosystem and we are expanding repeatedly.
 
-🌎 http://www.abdurrazzaqfoundation.org Abdurrazzaqfoundation.org is the official website of the Abdurrazzaq Foundation, a non-profit organization dedicated to humanitarian and charitable initiatives. The website provides information about the foundation's projects, events, and contributions in areas such as education, healthcare, and poverty alleviation. It serves as a platform for individuals and organizations to learn about and support the foundation's impactful work in improving the lives of those in need.
+🌎 http://www.abdurrazzaqfoundation.org: Abdurrazzaqfoundation.org is the official website of the Abdurrazzaq Foundation, a non-profit organization dedicated to humanitarian and charitable initiatives. The website provides information about the foundation's projects, events, and contributions in areas such as education, healthcare, and poverty alleviation. It serves as a platform for individuals and organizations to learn about and support the foundation's impactful work in improving the lives of those in need.
 
 Feel free to explore my repositories to discover more projects and code samples.
 
