@@ -17,7 +17,7 @@ I have expertise in the following technologies and tools:
 
 - Programming languages: TypeScript, JavaScript.
 - Front-end development: Angular 15+, Tailwind CSS, HTML, CSS3 
-- Version control: Git, GitHub, GitLab
+- Version control: GitHub, GitLab
 
 ## Projects
 
