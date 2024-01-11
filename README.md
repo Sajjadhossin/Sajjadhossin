@@ -27,7 +27,7 @@ Here are a few highlighted projects:
 
 🌎 https://www.nirbazar.com: Nirbazar.com is an e-commerce website that offers a wide range of products for online shopping. With a user-friendly interface and secure payment options, it provides a convenient platform for customers to browse and purchase various items from the comfort of their homes.
 
-🌎 https://www.meenaclick.com: MeenaClick.com is an online marketplace that offers a wide range of products for convenient shopping. With a diverse selection of categories including electronics, fashion, home appliances, and more, it provides customers with a seamless shopping experience. The website also offers secure payment options and reliable delivery services, ensuring a hassle-free online shopping experience.
+🌎 https://www.meenaclick.com: Meena Bazar is a cornerstone of Bangladesh’s thriving e-commerce sector, building upon the capabilities and reputation of Meena Bazar, one of the largest retail chains in the country.
 
 🌎 https://medboxbd.com: MedBox is an integrated B2B medicine supply chain solution. This single solution helps pharmacies and suppliers to regulate business efficiently. Multiple features continuously notify the most trading products and market valuations. MedBox solution is available for Android application and Web application.
 
