@@ -7,7 +7,7 @@
 
 ## About Me
 
-I have 2 years of experience in web development and have worked on various projects such as ERP, POS, Ecommerce Website. I am passionate about creating interactive and user-friendly web applications that provide a seamless user experience.
+I have 3 years of experience in web development and have worked on various projects such as ERP, POS, Ecommerce Website. I am passionate about creating interactive and user-friendly web applications that provide a seamless user experience.
 
 In this GitHub profile, you'll find a collection of my personal and open-source projects, code snippets, and contributions to other repositories. Feel free to explore, fork, and contribute to any of the projects that catch your interest.
 
