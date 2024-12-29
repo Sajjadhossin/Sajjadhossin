@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Sajjad hossin
 - 👀 I’m a passionate Web Developer
-- 🌱 I’m currently Developed website with new technologies Such as Angular 15+ , Tailwindcss , Sass , Less.
+- 🌱 I’m currently Developed webapp with new technologies Such as Angular 15+ , Tailwindcss , Sass , Less.
 - 📫 You can reach me by email (sajjadhossin.cse@gmail.com) or Phone 01956034049
 
 ## About Me
